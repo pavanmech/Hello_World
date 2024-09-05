@@ -1,6 +1,6 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello Devops!");
-    System.out.println("Hello cloud!");
+    System.out.println("Hello aws_cloud!");
   }
 }
